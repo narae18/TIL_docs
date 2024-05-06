@@ -1,6 +1,7 @@
 # TIL_docs
 Today I Learned! by 나랭
 
+![image](https://github.com/narae18/TIL_docs/assets/95646233/108f8416-bb40-4024-92eb-cc1072f33167)
 
 
 # GOALS
